@@ -1,0 +1,1 @@
+# Non-Newtonian-Fluid-Substrate-Power-Law-Model-Parameters-Dataset-for-Anaerobic-Digestion
